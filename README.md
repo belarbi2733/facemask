@@ -4,7 +4,7 @@ How to use:
 
 Once installed you can use the weights with some image:
 
-2. Download weights from [here] (https://drive.google.com/open?id=1VdAufws4H2xj644DkR-AOcqBMKVTDC8u)
+2. Download weights from [here](https://drive.google.com/open?id=1VdAufws4H2xj644DkR-AOcqBMKVTDC8u)
 
 2. Put mask.data, classes.names and facemask.weights in same folder
 
@@ -12,5 +12,3 @@ Once installed you can use the weights with some image:
 
 4 .Check for predictions.jpg
 
-#facemaskweights
-# facemaskweights
